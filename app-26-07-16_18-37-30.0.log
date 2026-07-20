@@ -1,0 +1,2 @@
+[2026-07-16 18:37:30 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[2026-07-16 18:37:30 INFO  o.a.coyote.http11.Http11NioProtocol] - Stopping ProtocolHandler ["http-nio-8081"]

@@ -1,0 +1,9 @@
+{
+	"properties": [
+		{
+			"name": "//level.com.example.yourproject",
+			"type": "java.lang.String",
+			"description": "A description for '//level.com.example.yourproject'"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+[2026-07-20 11:27:47] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+[2026-07-20 11:27:47] INFO  c.e.o.SpringBootApiApplication - Starting SpringBootApiApplication using Java 17.0.12 with PID 9428 (C:\Users\rakshita j bilgundi\Documents\workspace-spring-tools-for-eclipse-5.1.1.RELEASE\SpringBootApi\target\classes started by rakshita j bilgundi in C:\Users\rakshita j bilgundi\Documents\workspace-spring-tools-for-eclipse-5.1.1.RELEASE\SpringBootApi)
+[2026-07-20 11:27:47] INFO  c.e.o.SpringBootApiApplication - No active profile set, falling back to 1 default profile: "default"
+[2026-07-20 11:27:47] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2026-07-20 11:27:47] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
